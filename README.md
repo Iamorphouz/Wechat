@@ -1,6 +1,8 @@
 # MERN Stack Project: A Real Time Chat App | JWT, Socket.io
 
-![chatappPic](https://github.com/Iamorphouz/Wechat/assets/112709100/a59a20c9-6c06-47a3-b452-ccf36f3bd65f)
+
+![home](https://github.com/user-attachments/assets/b846307f-475c-413f-b070-c61d3d0a11cd)
+
 
 
 Some Features:
